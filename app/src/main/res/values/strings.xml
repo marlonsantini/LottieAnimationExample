@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LottieAnimation</string>
+    <string name="play_animation">Play Animação</string>
+    <string name="stop_animation">Stop Animação</string>
+</resources>
